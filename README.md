@@ -12,5 +12,6 @@ This repo only contains the desktop releases. Source code and mobile version can
 
 ## Screenshots
 
-<img src="metadata/screenshots/1.png" alt="deck view">
-<img src="metadata/screenshots/2.png" alt="supported sns">
+<img src="metadata/screenshots/1.png" alt="start page">
+<img src="metadata/screenshots/2.png" alt="deck view">
+<img src="metadata/screenshots/3.png" alt="download video">
